@@ -1,7 +1,7 @@
 [
-	{ "id": 1, "name": 'Max', secret: '123'},
-	{ "id": 2, "name": 'Julien', secret: '456'},
-	{ "id": 3, "name": 'Marc', secret: '789'},
-	{ "id": 4, "name": 'Michel', secret: '741'},
-	{ "id": 5, "name": 'George', secret: '852'}
+	{ "id": 1, "name": "Max", "secret": 123},
+	{ "id": 2, "name": "Julien", "secret": 456},
+	{ "id": 3, "name": "Marc", "secret": 789},
+	{ "id": 4, "name": "Michel", "secret": 741},
+	{ "id": 5, "name": "George", "secret": 852}
 ]
